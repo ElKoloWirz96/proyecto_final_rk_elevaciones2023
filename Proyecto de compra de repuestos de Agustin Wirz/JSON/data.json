@@ -1,0 +1,159 @@
+[
+  {
+  "id": "Cargador de baterias",
+  "titulo": "Cargador de baterias",
+  "imagen": "./Imagenes/Cargador de bateria Haulotte.jpg",
+  "categoria": {
+      "nombre": "Haulotte",
+      "id": "Haulotte"
+  },
+  "descripcion": "Cargador de baterias para la marca Haulotte",
+  "codigo": 2901009770,
+  "precio": 1571
+  },
+  {
+  "id": "Joystick de Compact",
+  "titulo": "Joystick de Compact",
+  "imagen": "./Imagenes/Joystick Compact Haulotte.jpg",
+  "categoria": {
+      "nombre": "Haulotte",
+      "id": "Haulotte"
+  },
+  "descripcion": "Joystick para maquinas de Haulotte",
+  "codigo": 2441305220,
+  "precio": 892
+  },
+  {
+  "id": "Controlador Zapi",
+  "titulo": "Controlador Zapi",
+  "imagen": "./Imagenes/Controlador.png",
+  "categoria": {
+      "nombre": "Haulotte",
+      "id": "Haulotte"
+  },
+  "descripcion": "Controlador marca Zapi de Haulotte",
+  "codigo": 4000313170,
+  "precio": 460
+  },
+  {
+  "id": "Contactor 24V",
+  "titulo": "Contactor 24V",
+  "imagen": "./Imagenes/Contactor 24V.jpg",
+  "categoria": {
+      "nombre": "Haulotte",
+      "id": "Haulotte"
+  },
+  "descripcion": "Contactor o corta corriente de 24V de Haulotte",
+  "codigo": 2901011940,
+  "precio": 297
+  },
+  {
+  "id": "Rele 24V 40Amper",
+  "titulo": "Rele 24V 40Amper",
+  "imagen": "./Imagenes/Rele 24V.jpg",
+  "categoria": {
+      "nombre": "Haulotte",
+      "id": "Haulotte"
+  },
+  "descripcion": "Rele de 24V y 40Amper", 
+  "codigo": 500362250,
+  "precio": 3
+  },
+  {
+  "id": "Fusible 300Amper",
+  "titulo": "Fusible 300Amper",
+  "imagen": "./Imagenes/Fusibles 300A.jpg",
+  "categoria": {
+      "nombre": "Haulotte",
+      "id": "Haulotte"
+  },
+  "descripcion": "Fusible de 300Amper",
+  "codigo": 40834,
+  "precio": 41
+  },
+  {
+  "id": "Bobina solenoide de valvula 24V",
+  "titulo": "Bobina solenoide de valvula 24V",
+  "imagen": "./Imagenes/Bobina solenoide de valvula 24V.jpg",
+  "categoria": {
+      "nombre": "Haulotte",
+      "id": "Haulotte"
+  },
+  "descripcion": "Bobina de solenoide para las electrovalvulas",
+  "codigo": 228866,
+  "precio": 208
+  },
+  {
+  "id": "Sellos cilindro pluma HA/IP",
+  "titulo": "Sellos cilindro pluma HA/IP",
+  "imagen": "./Imagenes/Sellos cilindro pluma HA15IP.jpg",
+  "categoria": {
+      "nombre": "Haulotte",
+      "id": "Haulotte"
+  },
+  "descripcion": "Kit de sellos para la pluma de la HA/IP",
+  "codigo": "HH12421693700",
+  "precio": 215
+  },
+  {
+  "id": "Sellos del freno de Compact 14",
+  "titulo": "Sellos del freno de Compact 14",
+  "imagen": "./Imagenes/Sellos del freno de Compact 14.webp",
+  "categoria": {
+      "nombre": "Haulotte",
+      "id": "Haulotte"
+  },
+  "descripcion": "kit de sellos para el freno de la compact 14",
+  "codigo": "HH12505008830",
+  "precio": 73
+  },
+  {
+  "id": "Sellos del cilindro de direccion de la X-31",
+  "titulo": "Sellos del cilindro de direccion de la X-31",
+  "imagen": "./Imagenes/Sellos del cilindro de direccion de la X-31.jpg",
+  "categoria": {
+      "nombre": "JCB",
+      "id": "JCB"
+  },
+  "descripcion": "kit de sellos del cilindro de direccion para la X-31",
+  "codigo": "UP066793-010",
+  "precio": 75.38
+  },
+  {
+  "id": "Kit de sellos del TLT 35",
+  "titulo": "Kit de sellos del TLT 35",
+  "imagen": "./Imagenes/Kit de sellos del TLT 35.webp",
+  "categoria": {
+      "nombre": "JCB",
+      "id": "JCB"
+  },
+  "descripcion": "Kit de sellos para el TLT 35",
+  "codigo": "991/20001",
+  "precio": 76.55
+  },
+  {
+  "id": "Sellos del cilindro de elevación MX-19",
+  "titulo": "Sellos del cilindro de elevación MX-19",
+  "imagen": "./Imagenes/Sellos del cilindro de elevación MX-19.jpg",
+  "categoria": {
+      "nombre": "JCB",
+      "id": "JCB"
+  },
+  "descripcion": "Kit de sellos del cilindro de elevación del MX-19",
+  "codigo": "UP065372-012",
+  "precio": 78.45
+  },
+  {
+      "id": "Reten del cigueñal TLT35, motor Deutz",
+      "titulo": "Reten del cigueñal TLT35, motor Deutz",
+      "imagen": "./Imagenes/Reten del cigueñal TLT35, motor Deutz.jpg",
+      "categoria": {
+          "nombre": "JCB",
+          "id": "JCB"
+      },
+      "descripcion": "Reten del cigueñal TLT35, motor Deutz",
+      "codigo": "02/930193",
+      "precio": 79.50
+      }
+
+]

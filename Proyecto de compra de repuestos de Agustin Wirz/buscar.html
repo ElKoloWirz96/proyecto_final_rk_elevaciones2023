@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RK Elevaciones, venta de repuestos</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="./css/estilos.css">
+</head>
+<body>
+    
+    <div class="wrapper">
+        <aside>
+            <header>
+                <h1 class="logo">RK, venta de repuestos</h1>
+            </header>
+            <nav>
+                <ul>
+                    <li>
+                        <a class="botonMenu botonVolver" href="./index.html">
+                            <i class="bi bi-arrow-return-left"></i></i>Volver al inicio</a>
+                    </li>
+                    <li>
+                        <a class="botonMenu botonCarrito" href="./carrito.html">
+                            <i class="bi bi-cart3">
+                            </i>Carrito <span id="numerito" class="numerito">0</span></a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="textoFooter">© 2023 RK Elevaciones</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="tituloPrincipal">Busqueda de productos</h2>
+            
+            <label for="buscar" class="buscadorLabel">
+                <span>Buscar
+                    <img class="buscadorLupa" loading="lazy"><i class="bi bi-search"></i>
+                </span>
+                <input type="text" id="buscar">
+            </label>
+            <div class="contenedorCarrito">
+                <!-- Esto se va a llenar con el JS -->
+            </div>
+        </main>
+    </div>
+    <script src="JSON/data.json"></script>
+    <script src="JS/buscar.js"></script>
+</body>
+</html>

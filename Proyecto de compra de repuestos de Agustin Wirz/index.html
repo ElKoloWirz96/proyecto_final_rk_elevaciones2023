@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RK Elevaciones, venta de repuestos</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="./css/estilos.css">
+</head>
+<body>
+    
+    <divc class="wrapper">
+        <aside>
+            <header>
+                <h1 class="logo">RK, venta de repuestos</h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <a class="botonMenu botonBuscar" href="./buscar.html">
+                            <i class="bi bi-hand-index-thumb"></i>Buscar repuesto</a>
+                    </li>
+                    <li>
+                        <button id="todos" class="botonMenu botonCategoria active">
+                            <i class="bi bi-hand-index-fill"></i>Todos los repuestos</button>
+
+                        </li>
+                    <li>
+                        <button id="Haulotte" class="botonMenu botonCategoria">
+                            <i class="bi bi-hand-index-thumb"></i>Haulotte</button>
+                    </li>
+                    <li>
+                        <button id="JCB" class="botonMenu botonCategoria">
+                            <i class="bi bi-hand-index-thumb"></i>JCB</button>
+                    </li>
+                    <li>
+                        <a class="botonMenu botonCarrito" href="./carrito.html">
+                            <i class="bi bi-cart3">
+                            </i>Carrito <span id="numerito" class="numerito">0</span></a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="textoFooter">© 2023 RK Elevaciones</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="tituloPrincipal" id="tituloPrincipal">Todos los repuestos</h2>
+            <div id="contenedorProductos" class="contenedorProductos">
+                <!-- Esto se completa con el JS -->
+            </div>
+        </main>
+    </div>
+
+
+<script src="JS/app.js"></script>
+<script src="JSON/data.json"></script>
+
+</body>
+</html>
